@@ -17,7 +17,7 @@ Frontend: JavaScript, React, Redux, CSS, HTML, Redux-Saga, Material UI
 Backend: Node.js, Express, Sequelize, PostgresSQL, Nodemailer, JSON Web Token (JWT)
 
 ## Сценарий сборки и запуска проекта
-### 1. Склонировать проект на локальную машину
+### 1. Склонировать проект на локальный компьютер
 ### 2. cd client - переходим в директорию client
 ### 3. npm i - загружаем необходимые пакеты
 ### 4. npm start - запустит клиентскую часть приложения
