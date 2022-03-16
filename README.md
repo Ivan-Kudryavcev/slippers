@@ -11,18 +11,10 @@
 ![sneakers-from-krasnodar](https://i.ibb.co/rwbwGBD/2022-03-15-09-41-40.png)
 
 
-## Используемый стек
+## Стек проекта:
+Frontend: JavaScript, React, Redux, CSS, HTML, Redux-Saga, Material UI
 <br/>
-Material UI
-<br/>
-React/ Redux/Saga
-<br/>
-Express/Sequelize/Postgress
-<br/>
-Авторизация реализована на JWT
-<br/>
-deploy - Heroku
-<br/>
+Backend: Node.js, Express, Sequelize, PostgresSQL, Nodemailer, JSON Web Token (JWT)
 
 ## Сценарий сборки и запуска проекта
 ### 1. Склонировать проект на локальную машину
